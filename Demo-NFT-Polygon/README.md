@@ -1,3 +1,2 @@
-# Polygon and nft.storage basic project
+# NFT-Polygon-Minting
 
-Tutorial: https://docs.polygon.technology/docs/develop/nftstorage
